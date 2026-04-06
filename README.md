@@ -1,4 +1,3 @@
-
 # API Readiness (Full)
 
 ## Env Variables
@@ -9,5 +8,8 @@ MONGO_URI
 npm install
 npm start
 
+## Live API
+https://api-readiness-f3af.onrender.com/api/users
+
 ## Swagger
-/api-docs
+https://api-readiness-f3af.onrender.com/api-docs
